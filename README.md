@@ -11,12 +11,12 @@ Crypto Tax Calculator is an open-source model with UIE (Unified Import Engine) s
 1. Windows/MacOS
 2. Git
 3. At least 4GB of RAM
-4. Python 3.10+ (all versions above are supported)
+4. Python 3.10+
    
 **To install the program on your machine, follow these instructions:**
 1. Install the program on your machine.
 ```bash
-git clone https://github.com/Uak0/crypto-tax-calculator
+git clone https://github.com/caxete/crypto-tax-calculator
 ```
 2. Setup the program.
 ```bash
@@ -94,6 +94,7 @@ This will open the CLI interface.
 - [X] [CEX.IO](https://cex.io/)
 - [X] [KuCoin](https://www.kucoin.com/)
 - [X] [OKX](https://okx.com/)
+- [X] [Polymarket](https://www.polymarket.com/)
 - [X] [Hyperliquid](https://hyperliquid.xyz/)
 - [ ] [potentially many others](https://github.com/Uak0/crypto-tax-calc/)
 
