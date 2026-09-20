@@ -1,5 +1,5 @@
 """
-This module contains the configuration class
+This module contains the configuration class  
 """
 
 import logging
