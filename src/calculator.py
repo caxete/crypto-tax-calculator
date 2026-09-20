@@ -1,4 +1,4 @@
-import gzip
+import gzip 
 import logging
 from collections.abc import Iterator, Mapping
 from io import StringIO
