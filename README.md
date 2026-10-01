@@ -98,7 +98,7 @@ This will open the CLI interface.
 - [X] [Hyperliquid](https://hyperliquid.xyz/)
 - [ ] [potentially many others](https://github.com/Uak0/crypto-tax-calc/)
 
-### Blockhain Explorers:
+### Blockchain Explorers:
 - [X] [Etherscan](https://etherscan.io/)
 - [X] [BscScan](https://bscscan.com/)
 - [X] [Arbiscan](https://arbiscan.io/)
