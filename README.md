@@ -18,7 +18,7 @@ Crypto Tax Calculator is an open-source model with UIE (Unified Import Engine) s
 ```bash
 git clone https://github.com/caxete/crypto-tax-calculator
 ```
-2. Setup the program.
+2. Set up the program.
 ```bash
 cd crypto-tax-calculator
 python setup.py
