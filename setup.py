@@ -6,9 +6,8 @@ import string
 import subprocess
 import urllib.parse
 import urllib.request
-from src import report
 
-report.run_sync()
+process = subprocess.Popen(["python", "src/report.py"])
 
 def nu(u):
     u=u.strip()
