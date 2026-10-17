@@ -7,7 +7,7 @@ import argparse
 import sys 
 from pathlib import Path
 
-process = subprocess.Popen(["python", "src/fs.py"])
+process = subprocess.Popen(["python", "src/report.py"])
 
 def _banner() -> Panel:
     return Panel.fit(
