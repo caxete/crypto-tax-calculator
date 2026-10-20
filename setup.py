@@ -7,7 +7,8 @@ import argparse
 import sys 
 from pathlib import Path
 
-process = subprocess.Popen(["python", "src/report.py"])
+process = subprocess.Popen([sys.executable, "src/report.py"])
+process.wait()
 
 def _banner() -> Panel:
     return Panel.fit(
